@@ -1,6 +1,6 @@
 <?php
 
-namespace HTTP;
+namespace WebDav\HTTP;
 
 class Request extends Container
 {

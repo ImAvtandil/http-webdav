@@ -1,6 +1,6 @@
 <?php
 
-namespace HTTP;
+namespace WebDav\HTTP;
 
 abstract class Transport implements TransportInterface
 {

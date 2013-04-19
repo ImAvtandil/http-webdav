@@ -1,8 +1,8 @@
 <?php
 
-namespace HTTP\Transport;
+namespace WebDav\HTTP\Transport;
 
-class Curl extends \HTTP\Transport
+class Curl extends  \WebDav\HTTP\Transport
 {
     public function __construct(array $options = array())
     {

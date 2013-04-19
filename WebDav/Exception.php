@@ -1,5 +1,5 @@
 <?php
 
-namespace HTTP\Request;
+namespace WebDav;
 
 class Exception extends \HTTP\Exception {}

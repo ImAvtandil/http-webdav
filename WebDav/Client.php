@@ -1,6 +1,6 @@
 <?php
 
-namespace WebDAV;
+namespace WebDav;
 
 class Client extends \HTTP\Client
 {

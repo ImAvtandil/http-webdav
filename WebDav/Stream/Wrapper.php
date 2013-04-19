@@ -1,6 +1,6 @@
 <?php
 
-namespace WebDAV\Stream;
+namespace WebDav\Stream;
 
 /**
  * stat mode flags: http://www.php.net/manual/en/function.stat.php#34919

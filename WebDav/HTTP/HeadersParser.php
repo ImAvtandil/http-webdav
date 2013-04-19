@@ -1,6 +1,6 @@
 <?php
 
-namespace HTTP;
+namespace WebDav\HTTP;
 
 class HeadersParser implements \Iterator, \Countable
 {
