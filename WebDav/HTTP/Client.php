@@ -1,6 +1,6 @@
 <?php
 
-namespace VebDav\HTTP;
+namespace WebDav\HTTP;
 
 class Client
 {
