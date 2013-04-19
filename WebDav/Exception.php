@@ -2,4 +2,4 @@
 
 namespace WebDav;
 
-class Exception extends \HTTP\Exception {}
+class Exception extends HTTP\Exception {}

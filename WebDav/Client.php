@@ -2,7 +2,7 @@
 
 namespace WebDav;
 
-class Client extends \HTTP\Client
+class Client extends HTTP\Client
 {
     protected $_userAgent   = 'WebDAV\\Client';
 
